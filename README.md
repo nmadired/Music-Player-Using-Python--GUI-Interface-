@@ -9,7 +9,7 @@ When the python file .py (https://github.com/nmadired/Music-Player-Using-Python-
 Libraries Used
 * Tkinter
 * os 
-* pugame
+* pygame
 * pydub
 * ImgTk
 * PIL
