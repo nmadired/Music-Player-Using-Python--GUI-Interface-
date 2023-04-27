@@ -2,6 +2,10 @@
 This is a simple GUI music player interface created using libraries like Tkinter, os, pygame, pydub &amp; IMGtk that can play songs from the selected path directory. 
 It has 3 buttons PLAY, PAUSE &amp; STOP with some images on the background.
 
+Progran Execution & Working
+
+When the python file .py is executed a user interface popsout with the images along with list of music files taken from the directory. C:\Users\13312\Desktop\Muisc player. The interface allows the user to play any selecetd song from the list and also allows them to pause , stop at anytime. 
+
 Libraries Used
 * Tkinter
 * os 
